@@ -1,6 +1,6 @@
 # LIGHTS,CAMERA,DATABASE: EXPLORING THE WORLD OF MOVIES
 
-#INTRODUCTION: 
+## INTRODUCTION: 
 
 ## Project Overview 
 
@@ -2416,7 +2416,7 @@ plt.show()
 
 
     
-![png](output_119_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/Histogram%20of%20runtime.png)
     
 
 
@@ -2459,7 +2459,7 @@ plt.show()
 
 
     
-![png](output_122_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/boxplot%20prod%20Budget.png)
     
 
 
@@ -2501,7 +2501,7 @@ plt.show()
 
 
     
-![png](output_125_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/boxplot%20Domestic%20gross%20.png)
     
 
 
@@ -2543,7 +2543,7 @@ plt.show()
 
 
     
-![png](output_128_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/boxplot%20worldwide%20gross%20.png)
     
 
 
@@ -2664,7 +2664,7 @@ plt.show()
 
 
     
-![png](output_136_0.png)
+![Alt Text][(output_136_0.png)](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/Top8%20most%20popular%20genres.png)
     
 
 
@@ -2686,7 +2686,7 @@ plt.show()
 
 
     
-![png](output_138_0.png)
+![Alt Text][(https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/distribution%20on%20movieruntimes.png)
     
 
 
@@ -2715,7 +2715,7 @@ plt.show()
 
 
     
-![png](output_140_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/top%208%20average%20runtimes.png)
     
 
 
@@ -2756,7 +2756,7 @@ plt.show()
 
 
     
-![png](output_144_0.png)
+![Alt Text]((https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/budget%20vs%20worldwide.png)
     
 
 
@@ -2797,7 +2797,7 @@ plt.show()
 
 
     
-![png](output_149_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/ROI%20vs%20Production.png)
     
 
 
@@ -2852,7 +2852,7 @@ plt.show()
 
 
     
-![png](output_155_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/Worldwide%20gross%20vs%20rating.png)
     
 
 
@@ -2894,8 +2894,7 @@ plt.show()
 ```
 
 
-    
-![png](output_159_0.png)
+![Alt Text](https://github.com/Mariacharlote/dsc-phase-1-project-v2-4/blob/master/production%20budget%20vs%20ratings.png)
     
 
 
