@@ -32,7 +32,7 @@ The data used is contained in 3 seperate files as listed below:
 
 2 . rt.reviews.tsv.gz: Each record contains reviews and ratings for the movies and the publishers of the reviews.
 
-3. tn.movie_budgets.csv.gz : The file contains the production budget and gross sales per movie with additional supporting data
+3 . tn.movie_budgets.csv.gz : The file contains the production budget and gross sales per movie with additional supporting data
 
 
 ## Business Problem Understanding 
@@ -41,6 +41,7 @@ The business problems that the project would like to answer are listed below :
 1.What are the most popular genres of movies and what is the average runtime for popular movies?
 
 2.What is the relationship between :
+
     a) A Movie's production budget and the revenue made
     b) Return on investment vs production
 
@@ -54,9 +55,9 @@ The business problems that the project would like to answer are listed below :
 
 An initial examination of the raw datasets can provide valuable insights that help us in comprehending the data that we will be working with. This examination can also assist us in determining the best approach for structuring the datasets we have. 
 
-For this project, we require to import the necessary python tools in order to access the data and view it. this include : Import pandas,csv,numoy,gzip
+For this project, we require to import the necessary python tools in order to access the data and view it. This include : Import pandas,csv,numoy,gzip
 
-This stage give us the opportunity to decide what information will be necessary for our analysis.
+This stage gives us the opportunity to decide what information will be necessary for our analysis.
 
 
 ## Step 2: Data Cleaning and Preparation
@@ -589,14 +590,14 @@ plt.show()
 
 ##### What is the relationship between a movie's production budget and the revenue made?
 
-its an expectation that movies with higher production budgets will generate higher revenues, but this relationship is not always straightforward. A movie's success is influenced by various factors, such as the quality of the script, the skill of the director, the popularity of the actors, and the timing of the release, among others. 
+Its an expectation that movies with higher production budgets will generate higher revenues, but this relationship is not always straightforward. A movie's success is influenced by various factors, such as the quality of the script, the skill of the director, the popularity of the actors, and the timing of the release, among others. 
 
 To identify the relationship between the production budget and revenue in our data set we can create a scatter plot of budget vs revenues. 
 
-This would allows us to inspect trends  and patterns.
+This would allows us to inspect trends and patterns.
 We can also quantify the return on investment (ROI) for each movie. This can be calculated as the ratio of worldwide gross revenue to production budget.
 
-in the process this would allow us to compare the profitability of movies with different budgets and revenue levels.
+In the process this would allow us to compare the profitability of movies with different budgets and revenue levels.
 
 
 
@@ -665,7 +666,7 @@ plt.show()
     
 
 
-it can be noted from above that the Return on investment (ROI) is not guaranteed by the production budget used . 
+It can be noted from above, the Return on investment (ROI) is not guaranteed by the production budget used . 
 
 The scatter plot shows very little correlation between the ROI and investment put in. 
 
@@ -770,7 +771,7 @@ After analyzing the DataFrame df_modified_merged, several interesting results we
  
  * No movie had a runtime of less than 82 min
  
- * The Average movie production budget spent by movie makers in this dataset was 34.6 Million however, majority of movies spent between USD 7 million and USD 45 million.
+ * The Average movie production budget spent by movie makers in this dataset was 34.6 Million however, majority of movies spent between USD 7 million and USD 45   million.
  
  * The highest budget amount was USD 350 Million.
  
