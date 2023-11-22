@@ -1,4 +1,5 @@
 # LIGHTS,CAMERA,DATABASE: EXPLORING THE WORLD OF MOVIES
+![Alt Text](https://boardgamegeek.com/image/5179215/lights-camera-action)
 
 ## Introduction: 
 
