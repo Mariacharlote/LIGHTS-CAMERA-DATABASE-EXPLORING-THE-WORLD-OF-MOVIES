@@ -1,5 +1,6 @@
 # LIGHTS,CAMERA,DATABASE: EXPLORING THE WORLD OF MOVIES
-![Alt Text](https://boardgamegeek.com/image/5179215/lights-camera-action)
+![Alt Text](https://github.com/Mariacharlote/LIGHTS-CAMERA-DATABASE-EXPLORING-THE-WORLD-OF-MOVIES/assets/128170920/f6530566-baef-46cb-b73e-ac5bbdc5fc33)
+
 
 ## Introduction: 
 
